@@ -40,12 +40,6 @@ Workflow personalization through customizable interface adapts appearance and be
 
 ---
 
-<p align="center">
-  <img src="https://static.macupdate.com/screenshots/293408/m/mucommander-screenshot.png?v=1612425853" alt="muCommander screenshot"/>
-</p>
-
----
-
 ## Additional Information
 
 muCommander distinguishes itself through lightweight dual-pane file management beyond basic browsers. Unlike resource-heavy alternatives, efficient Java-based design serves power user requirements.
